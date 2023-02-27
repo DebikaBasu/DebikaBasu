@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debika Basu</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Fullstack developer.</h3>
 
 - 🌱 I’m currently learning **React and Node JS**
 
