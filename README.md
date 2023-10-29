@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debikabasu&show_icons=true&locale=en" alt="debikabasu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debikabasu&" alt="debikabasu" /></p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DebikaBasu&label=Profile%20Views&color=8&pretty=true" />
+</a>
