@@ -1,10 +1,10 @@
 # 💫 About Me:
-<h1 align="center">Hey 👋, I'm Debika!!</h1>
+<h1 align="center">Hey👋, I'm Debika!!</h1>
 <h3 align="left">👩🏻‍💻 A passionate Developer from India</h3>
 <h3 align="left">🌱 I’m currently learning React and Node JS</h1>
 <h3 align="left">👯 I’m looking to collaborate on Open Source Projects</h3>
 <h3 align="left">📫 How to reach me : debika.connect@gmail.com</h3>
-<h3 align="left">⚡ Fun fact I think I'm funny XD😵</h3>
+<h3 align="left">⚡ Fun fact : Code by day, meme creator by night☕😂💻</h3>
 
 
 ## 🌐 Socials:
