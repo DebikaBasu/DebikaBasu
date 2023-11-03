@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DebikaBasu&label=Profile%20Views&color=8&icon=1&pretty=true" />
+</a>
+
 # 💫 About Me:
 <h1 align="center">Hey👋, I'm Debika!!</h1>
 <h3 align="left">👩🏻‍💻 A passionate Developer from India</h3>
