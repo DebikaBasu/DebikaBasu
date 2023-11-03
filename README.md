@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React and Node JS<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me debika.connect@gmail.com<br><br>⚡ Fun fact I think I'm funny XD😵
+<br><h1>🌱 I’m currently learning React and Node JS</h1><br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me debika.connect@gmail.com<br><br>⚡ Fun fact I think I'm funny XD😵
 
 
 ## 🌐 Socials:
