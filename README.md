@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React and Node JS</h1><br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me debika.connect@gmail.com<br><br>⚡ Fun fact I think I'm funny XD😵
+<h1 align="center">Hey 👋, I'm Debika</h1>
+<h3 align="center">👩🏻‍💻 A passionate Developer from India</h3>
+<h1 align="center">🌱 I’m currently learning React and Node JS</h1>
+<h3 align="center">👯 I’m looking to collaborate on Open Source Projects</h3>
+<h3 align="left">📫 How to reach me : debika.connect@gmail.com</h3>
+<h3 align="left">⚡ Fun fact I think I'm funny XD😵</h3>
 
 
 ## 🌐 Socials:
